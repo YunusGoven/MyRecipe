@@ -1,0 +1,53 @@
+<resources>
+    <string name="facebook_app_id">458592888668105</string>
+    <string name="fb_login_protocol_scheme">fb458592888668105</string>
+    <string name="app_name">MyRecipe</string>
+    <string name="home_page_title">Accueil</string>
+    <string name="share">Partager</string>
+    <string name="home_page_liked">Favoris</string>
+    <string name="home_page_some_recipes">Dernières recettes</string>
+    <string name="home_see_more">Voir plus</string>
+    <string name="filter">Filtrer</string>
+    <string name="filter_liked">Favoris</string>
+    <string name="add_image">Ajouter une photo</string>
+    <string name="filter_unliked">Non-Favoris</string>
+    <string-array name="categorie">
+        <item>Choissisez une catégorie</item>
+        <item>Entrées</item>
+        <item>Plats</item>
+        <item>Viandes</item>
+        <item>Poissons</item>
+        <item>Desserts</item>
+    </string-array>
+    <string name="add_recipe_title">Ajouter une recette</string>
+    <string name="add_recipe_add_image">Charger une image</string>
+    <string name="add_duration_total">Temps total</string>
+    <string name="add_duration_preparation">Durée Préparation</string>
+    <string name="add_duration_cuisson">Durée Cuisson</string>
+    <string name="add_difficulte">Difficultée</string>
+    <string name="add_recipe_name">@string/recipe_name</string>
+    <string name="add_recipe_preparation">@string/recipe_preparation</string>
+    <string name="add_recipe_ingredient">@string/recipe_ingredient</string>
+    <string-array name="difficulte">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="collection_title">Mes recettes</string>
+    <string name="add_recipe_confirm">Valider</string>
+
+    <string name="recipe_name">Nom de la recette</string>
+    <string name="recipe_preparation">Préparation</string>
+    <string name="recipe_ingredient">Ingrédient</string>
+    <string name="recipe_categorie">Catégorie</string>
+    <string name="add_new_recipe">Ajouter une recette</string>
+    <string name="duration_total">durée total</string>
+    <string name="difficulte">2</string>
+    <string name="liked_recipe">Recette favorite</string>
+    <string name="all">Toutes</string>
+    <string name="partager">Partager</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="confirmation_text">Etes-vous sur de vouloir la supprimer ?</string>
+</resources>
